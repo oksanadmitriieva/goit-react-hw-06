@@ -1,0 +1,23 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 320px;
+}
+.formInput {
+  border: 1px solid gray;
+  border-radius: 6px;
+  margin-bottom: 4px;
+  margin-top: 10px;
+  height: 30px;
+}
+.btnAddContact {
+  margin-top: 6px;
+  border: 1px solid gray;
+}
+.error {
+  color: red;
+}

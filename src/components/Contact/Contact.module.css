@@ -1,0 +1,21 @@
+.icon {
+  margin-right: 10px;
+}
+.contactCard {
+  border: 1px solid gray;
+  border-radius: 10px;
+  display: flex;
+  padding: 10px;
+  margin-bottom: 16px;
+  justify-content: space-between;
+  width: 320px;
+}
+.btnDelete {
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 100px;
+  height: 40px;
+  padding: 6px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
